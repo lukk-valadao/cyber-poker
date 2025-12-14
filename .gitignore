@@ -1,0 +1,16 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pygame / cache
+*.log
+
+# Sistema
+.DS_Store
+
+
+
