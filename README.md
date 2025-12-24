@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # cyber-poker
 Texas Hold'em Poker em Python com Pygame e engine própria
 
@@ -7,7 +6,7 @@ Texas Hold'em Poker em Python com Pygame e engine própria
 ![OS](https://img.shields.io/badge/OS-Linux-blueviolet.svg)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Build](https://img.shields.io/badge/build-tested%20locally-informational.svg)
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 
 Cyber Poker é uma implementação em Python do jogo **Texas Hold’em**, desenvolvida com foco em **arquitetura limpa**, **lógica realista de poker** e **base sólida para evolução futura**, incluindo versão **mobile**.
@@ -159,5 +158,4 @@ expansão para multiplayer
 
 📜 Licença
 Apache License 2.0
-=======
->>>>>>> cb1485b (Initial commit: Cyber Poker Texas Hold'em engine and GUI)
+
